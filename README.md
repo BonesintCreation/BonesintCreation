@@ -24,4 +24,4 @@ Explore, aprenda, colabore e transforme seus projetos em algo excepcional! 🚀
 
 ### Vamos codificar o Fortnite juntos! 💻✨
 
-<a href="https://instagram.com/bonesint.creation" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-lightgrey?style=for-the-badge&logo=instagram" target="_blank"></a>
+<a href="https://instagram.com/bonesint.creation" target="_blank"><img src="https://img.shields.io/badge/-Instagram-lightgrey?style=for-the-badge&logo=instagram" target="_blank"></a>
