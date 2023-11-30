@@ -4,8 +4,6 @@
 
 Bem-vindo ao meu repositório, onde os mistários do Verse são revelados! 🌟 Se você já se maravilhou com os exemplos de código que compartilhei em minhas redes sociais, prepare-se para uma experiência ainda mais imersiva.
 
-repleto de projetos e snippets que refletem a minha jornada no vasto mundo da programação.
-
 🌐 O que você encontrará aqui?
 ✔️ Meus Códigos: Todos os códigos que compartilhei nas minhas redes estão aqui, devidamente organizados, comentados e prontos para serem explorados.
 
